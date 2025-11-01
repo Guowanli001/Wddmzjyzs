@@ -1,8 +1,8 @@
 # Wddmzjyzs -反JY软件
 ## [By GWL](https://g255x.github.io)
 ------------------------功能介绍------------------------
+
         TaskMgr   循环启动任务管理器(输入0)
-        
         Kill      杀死极域电子教室(输入1)
         TaskList  进程列表(输入2)
         TaskKill  杀死某进程(输入3)
